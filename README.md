@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola!!!
+
+## me llamo Valentin y estoy cursando la carrera de iIngenieria en computacion en la Universidad Nacional de Rio Negro
 
 <!--
 **Valgold/vALGOLD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
